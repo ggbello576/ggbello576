@@ -5,5 +5,5 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,ts,java,ocaml,html,css,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,js,ts,java,ocaml,html,css,postgres,ollama,arduino&theme=dark" />
 </p>
