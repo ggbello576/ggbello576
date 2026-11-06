@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gabriele Gentile[cite: 1]
+### Hi there 👋, I'm Gabriele Gentile
 
 - 💻 I am a Computer Science student at **UniPi** (University of Pisa).
 - 🚀 Highly curious, passionate about low-level systems, and always eager to build and dive into new projects.
