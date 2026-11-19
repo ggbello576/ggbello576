@@ -15,4 +15,5 @@
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ollama-%23ffffff?style=for-the-badge&logo=ollama&logoColor=black" />
   <img src="https://img.shields.io/badge/esp32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARMv7_Assembly-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white" />
 </p>
